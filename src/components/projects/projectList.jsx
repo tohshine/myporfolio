@@ -31,7 +31,7 @@ const ProjectList = ({ title, description, url, image, technology }) => {
         <img
           src={image}
           alt='tohshine'
-          className='border mb-8 rounded-lg h-64 object-cover'
+          className='border mb-8 rounded-lg h-64 object-cover items-center'
         />
 
         <Accordion>
