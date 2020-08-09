@@ -37,7 +37,7 @@ export const project = [
   },{
     title: "Ecommerce application",
     description:
-      "A real time Ecommerce web app where buying and selling is carried. This application lock down item for any individual who want to puchase it until is actually purchased or product got expired in a timeout window it is built with react as frontend and nodejs as backend which together run inside kubernetes and hosted on digital ocean. p.s this application is not online to avoid the cost of maintaining a kubernetes    ",
+      "A real time Ecommerce web application where buying and selling is carried out. This application lock down item for any individual who orders  until is actually been purchased or product got expired in a timeout window it is built with react as frontend and nodejs as backend which together run inside kubernetes and hosted on digital ocean. p.s this application is not online to avoid the cost of maintaining a kubernetes    ",
     technology: [{id:1, name:"React",url:""},{id:2,name:"Node",url:""},{id:3,name:"kubernetes",url:""},{name:"Docker",url:""},{name:"NAT",url:""}],
     id: 5,
     image: "https://res.cloudinary.com/dlecos9op/image/upload/v1596984198/egsfk939c6m6co2mqa44.png",
