@@ -43,11 +43,13 @@ const Welcome = () => {
     <div className='flex flex-col justify-center items-center h-screen'>
       <div className=' max-w-6xl w-full'>
         <div className='flex flex-col justify-center items-center px-16'>
+          <div className="dev__image">
           <img
             src='https://res.cloudinary.com/dlecos9op/image/upload/v1596793106/vfanvscyhyzj83wg2sm5.png'
             className='rounded-full object-contain w-64 border border-red-300 '
             alt='user'
           />
+          </div>
           <div className='pt-16'>
             <div className='text-center'>
               <h2 className='sm:text-4xl'>Hello,I'm</h2>

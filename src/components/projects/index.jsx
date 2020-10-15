@@ -1,5 +1,6 @@
 import React from "react";
 import { project } from "../../mocks/projects";
+import  './index.module.css'
 
 import ArrowBackIcon from "@material-ui/icons/ArrowBack";
 import Avatar from "@material-ui/core/Avatar";
@@ -11,7 +12,7 @@ const Index = () => {
   return (
     <div className='text-white flex flex-col justify-center items-center px-4 h-auto relative '>
       <div className=' max-w-6xl w-full '>
-        <div className=' flex flex-col r ' >
+        <div className=' flex flex-col r '>
           <div className='pt-8 flex justify-between items-center '>
             <Link
               to='/'
@@ -24,7 +25,7 @@ const Index = () => {
             <Avatar
               alt='tosin owoeye'
               src='https://res.cloudinary.com/dlecos9op/image/upload/v1596793106/vfanvscyhyzj83wg2sm5.png'
-              className='border'
+              className='border '
             />
           </div>
 
