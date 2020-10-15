@@ -60,7 +60,7 @@ const Welcome = () => {
 
             <div className='flex justify-evenly items-center pt-16  w-full'>
               <a
-                href='https://res.cloudinary.com/dlecos9op/image/upload/v1596980369/dt8n12zlehualhz7fgre.pdf'
+                href='https://res.cloudinary.com/dlecos9op/image/upload/v1602742995/kbeweuw6c4zajg5zgwxa.pdf'
                 className='hover:bg-white px-2 py-2 rounded-lg text-orange-800 border-0 '
               >
                 <GetAppIcon />
