@@ -1,0 +1,7 @@
+.card__tile{
+    transition: transform 450ms;
+  }
+  
+  .card__tile:hover{
+    transform: scale(1.08);
+  }

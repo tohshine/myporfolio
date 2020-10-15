@@ -7,6 +7,8 @@ import AccordionDetails from "@material-ui/core/AccordionDetails";
 import Typography from "@material-ui/core/Typography";
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 
+import  './project.css'
+
 const ProjectList = ({ title, description, url, image, technology }) => {
   const renderTech = (technology) => {
     return technology.map((tech) => {
@@ -19,7 +21,7 @@ const ProjectList = ({ title, description, url, image, technology }) => {
   };
 
   return (
-    <div className=' w-64  rounded-lg px-2 py-8 bg-white my-8 text-black shadow-lg'>
+    <div className=' w-64  rounded-lg px-2 py-8 bg-white my-8 text-black shadow-lg card__tile'>
       <div className=' '>
         <span className='flex items-center text-sm capitalize pb-4'>
           <strong className='pr-2'>title:</strong>
