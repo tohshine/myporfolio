@@ -32,7 +32,7 @@ export const project = [
       "This is the android version of covid19apps   ",
     technology: [{id:1, name:"React-native",url:""},{id:2,name:"Node",url:""},{id:3,name:"API",url:""}],
     id: 4,
-    image: "https://res.cloudinary.com/dlecos9op/image/upload/v1596795362/uotmm3t3dmuhzw9ntxps.png",
+    image: require('../assets/dash.png'),
     url: "http://fastsearch.herokuapp.com/",
   },{
     title: "Ecommerce application",
