@@ -45,7 +45,7 @@ const Welcome = () => {
         <div className='flex flex-col justify-center items-center px-16'>
           <div className="dev__image">
           <img
-            src='https://drive.google.com/file/d/1jtXZMzLNjrHNCkrz3CT6Xcgo2rhoabAz/view?usp=sharing'
+            src='https://res.cloudinary.com/dlecos9op/image/upload/v1609508846/qfnuxqylmyz21pmjgqpe.png'
             className='rounded-full object-contain w-64 border border-red-300 '
             alt='user'
           />
