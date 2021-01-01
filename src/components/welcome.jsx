@@ -45,7 +45,7 @@ const Welcome = () => {
         <div className='flex flex-col justify-center items-center px-16'>
           <div className="dev__image">
           <img
-            src='https://res.cloudinary.com/dlecos9op/image/upload/v1596793106/vfanvscyhyzj83wg2sm5.png'
+            src='https://drive.google.com/file/d/1jtXZMzLNjrHNCkrz3CT6Xcgo2rhoabAz/view?usp=sharing'
             className='rounded-full object-contain w-64 border border-red-300 '
             alt='user'
           />
@@ -62,7 +62,7 @@ const Welcome = () => {
 
             <div className='flex justify-evenly items-center pt-16  w-full'>
               <a
-                href='https://res.cloudinary.com/dlecos9op/image/upload/v1607172533/oui3wgrshgxhy7tio0vl.pdf'
+                href='https://drive.google.com/file/d/1Bmhf7xPUjtVB2J25fb_MGqWyo5L--drR/view?usp=sharing'
                 className='hover:bg-white px-2 py-2 rounded-lg text-orange-800 border-0 '
               >
                 <GetAppIcon />
