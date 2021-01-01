@@ -46,7 +46,8 @@ const Welcome = () => {
           <div className="dev__image">
           <img
             src='https://res.cloudinary.com/dlecos9op/image/upload/v1609508846/qfnuxqylmyz21pmjgqpe.png'
-            className='rounded-full object-contain w-64 border border-red-300 '
+            
+            style={{width:100,borderRadius:100}}
             alt='user'
           />
           </div>
