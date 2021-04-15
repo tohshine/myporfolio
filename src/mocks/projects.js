@@ -2,7 +2,7 @@ export const project = [
   {
     title: "covid19apps",
     description:
-      "This is a covid19 cases tracker,which i built to detect and reveal the number of cases, infected and recovered in my country Nigeria, this web application is build  mainly with react  with day and night mode features to prevent light emission to users.It also have diagnosing test kit features which it still under developement  ",
+      "This is a covid19 cases tracker,which i built to detect and reveal the number of cases, infected and recovered, this web application is build  mainly with react  with day and night mode features to prevent light emission to users.It also have diagnosing test kit features which it still under developement  ",
     technology: [
       { id: 1, name: "React", url: "" },
       { id: 2, name: "Node", url: "" },
